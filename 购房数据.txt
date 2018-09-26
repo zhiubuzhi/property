@@ -1,0 +1,4 @@
+{"floors": "中层/共20层", "build_year": "70年", "first_pay": "176.4万（月供16874元/月）", "chaoxiang": "南", "chanquanniandai": "精装修", "xiaoqu": "骏景花园", "address": "天河", "room_type": "4室2厅2卫", "price": "588万（单价37215元/㎡）"},
+{"floors": "中层/共18层", "build_year": "70年", "first_pay": "35.4万（月供3387元/月）", "chaoxiang": "东南", "chanquanniandai": "豪华装修", "xiaoqu": "美林湖国际社区", "address": "花都", "room_type": "2室2厅2卫", "price": "118万（单价13409元/㎡）"},
+{"floors": "共3层", "build_year": "70年", "first_pay": "77.4万（月供7405元/月）", "chaoxiang": "东南", "chanquanniandai": "毛坯", "xiaoqu": "美林湖国际社区", "address": "花都", "room_type": "4室2厅4卫", "price": "258万（单价11569元/㎡）"},
+{"floors": "中层/共20层", "build_year": "70年", "first_pay": "123万（月供11766元/月）", "chaoxiang": "南", "chanquanniandai": "精装修", "xiaoqu": "骏景花园", "address": "天河", "room_type": "3室2厅1卫", "price": "410万（单价37272元/㎡）"},
